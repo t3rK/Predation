@@ -5,7 +5,7 @@ import sim.portrayal.grid.*;
 import javax.swing.*;
 import sim.portrayal.simple.*;
 import java.awt.Color;
-//AKIN ANG TERITORYONG ITO.
+
 public class EnvironmentWithUI extends GUIState{
 	public Display2D display;
 	public JFrame displayFrame;
