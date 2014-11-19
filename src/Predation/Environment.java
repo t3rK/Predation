@@ -2,7 +2,7 @@ package Predation;
 import sim.engine.*;
 import sim.field.grid.SparseGrid2D;
 import sim.util.Bag;
-//hello i am baymax
+//falalalalalaa
 public class Environment extends SimState {
 	public SparseGrid2D grid; //the grid wraps around
 	public int gridWidth = 100;
