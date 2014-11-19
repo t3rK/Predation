@@ -2,7 +2,11 @@ package Predation;
 import sim.engine.*;
 import sim.field.grid.SparseGrid2D;
 import sim.util.Bag;
+<<<<<<< HEAD
 //falalalalalaa
+=======
+
+>>>>>>> parent of ead6c0c... Update Environment.java
 public class Environment extends SimState {
 	public SparseGrid2D grid; //the grid wraps around
 	public int gridWidth = 100;
